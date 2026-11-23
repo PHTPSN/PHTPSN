@@ -1,0 +1,3 @@
+# Preserve original icon bytes and source hashes.
+assets/icons/*.svg -text
+assets/icons/*.png -text

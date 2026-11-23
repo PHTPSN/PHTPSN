@@ -1,0 +1,62 @@
+{
+  "rust.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg",
+    "sha256": "16c6c6a98e990944fc5e1cc64cc8fc7b8be3a662ec4ee7951b7995d2e52f5e12"
+  },
+  "python.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  "typescript.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+    "sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0"
+  },
+  "solidity.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg",
+    "sha256": "d17a000e2a4d29fe181cca14fd5ca24bbe3a529f05af0e9a4ee1b8ad5966d959"
+  },
+  "react.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f"
+  },
+  "nextjs.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
+    "sha256": "d9435c4ede7133b376c0173a80226bb3856729366707cd96e9a66e39448d0288"
+  },
+  "nodejs.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    "sha256": "3218687c5ea24a4d4c0a33dc5c287da38c33a72dcfe9382469d7ce4e0bf661fb"
+  },
+  "matlab.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
+    "sha256": "03f162fa2d349019b1fad920206b27246e5f5b48e6f7c15fb890fc3e8d3c82e0"
+  },
+  "docker.svg": {
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    "sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1"
+  },
+  "ethereum.svg": {
+    "source": "https://ethereum.org/images/assets/svgs/eth-diamond-purple.svg",
+    "sha256": "7320e64e211db747308cc3e546e5360d42f3790b7a14fba0504573790e17f124"
+  },
+  "solana.svg": {
+    "source": "https://raw.githubusercontent.com/solana-foundation/solana-com/main/apps/web/public/src/img/branding/solanaLogoMark.svg",
+    "sha256": "3d3401109aa061dec40a8659f1847817a8e647f98de1e65e76e86a95bbe1f08a"
+  },
+  "lean.svg": {
+    "source": "https://lean-lang.org/ (navigation inline SVG, copied verbatim)",
+    "sha256": "3eba610fdc00ee8edae8bed67fd0e2a5040ae82691cd31be07c935d7c859120d"
+  },
+  "noir.png": {
+    "source": "https://www.noir-lang.org/generated-icon.png",
+    "sha256": "4107c2eefc6e1b125b5661b2f4dbc7f58afee10c2948380fc2adeccf3b98f932"
+  },
+  "rust-dark.svg": {
+    "source": "https://raw.githubusercontent.com/rust-lang/rust-artwork/main/logo/rust-logo-white-outline.svg",
+    "sha256": "c7a5fb03c8c4ddedcf2d2aa99ac607ee30cd266df7fa39b3d355d16efabcfcca"
+  },
+  "solidity-dark.svg": {
+    "source": "https://raw.githubusercontent.com/argotorg/solidity/11be2f4881d1644f15b026d1022388f06a034a34/docs/_static/img/logo-dark.svg",
+    "sha256": "d16bc50fc7e36077776ebd221f1f359b47f22e3489dbf49f5bc04a5b8f41e735"
+  }
+}
